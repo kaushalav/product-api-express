@@ -11,3 +11,5 @@
 7. npm i --save multer
    used to handle multipart form data (express dont have the functionality to handle multi part 
    form data).
+
+8. Routing, query parameters, MVC, Async JS

@@ -33,6 +33,7 @@ mongoose.connection.on('disconnected', () => {
 
 // to deal with multipart data
 app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: false }));
 // by default, the ability to read json files is disabled in express
 app.use(express.json());
 
