@@ -13,3 +13,8 @@
    form data).
 
 8. Routing, query parameters, MVC, Async JS
+
+>>>> 
+1. Promise
+2. Async await
+3. JS basic functions
