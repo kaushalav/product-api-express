@@ -1,0 +1,13 @@
+1. modules installed-> express, esm, nodemon, dotenv
+2. error handling middleware in express
+3. mongoose - Mongoose is an Object Data Modeling (ODM) library 
+   for MongoDB and Node.js. It provides a straightforward way to model your data, 
+   interact with MongoDB databases, and manage data schemas in a Node.js application. 
+   Mongoose abstracts the low-level details of MongoDB's native driver, offering a 
+   more powerful and higher-level API to work with.
+4. Async await
+5. bcrypt - used to hash the password
+6. jsonwebtoken - used to create token
+7. npm i --save multer
+   used to handle multipart form data (express dont have the functionality to handle multi part 
+   form data).

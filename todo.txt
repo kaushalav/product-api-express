@@ -1,0 +1,8 @@
+Register user
+login user 
+who am i 
+Add new product
+update a product
+Get all products
+Get single product
+Delete a product 
