@@ -1,4 +1,12 @@
+/// how to start development
+1. open a folder in vsc, type npm init -y in terminal
+2. install dependencies, npm i express, npm i esm, npm i dotenv, npm i -D nodemon
+
+>>>>>>>>> 
 1. modules installed-> express, esm, nodemon, dotenv
+   esm -> used to write import from statement (ecma script module)
+   nodemon -> development module, server will automatically restart
+   dotenv -> to write constants in env variable and use this throughout the application.
 2. error handling middleware in express
 3. mongoose - Mongoose is an Object Data Modeling (ODM) library 
    for MongoDB and Node.js. It provides a straightforward way to model your data, 
