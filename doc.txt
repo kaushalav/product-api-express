@@ -21,6 +21,7 @@
    form data).
 
 8. Routing, query parameters, MVC, Async JS
+9, joi - library for validation.
 
 >>>> 
 1. Promise
