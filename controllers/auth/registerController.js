@@ -8,7 +8,7 @@ import { REFRESH_SECRET } from '../../config';
 export const registerController = {
     async register(req, res, next) {
         // checklist
-        // 1. validate the request (usinf joi validation library)
+        // 1. validate the request (using joi validation library)
         // 2. authorize the request
         // 3. check if user is already in the database
         // 4. prepare model
