@@ -4,7 +4,7 @@
 
 >>>>>>>>> 
 1. modules installed-> express, esm, nodemon, dotenv
-   esm -> used to write import from statement (ecma script module)
+   esm -> used to write "import from" statement (ecma script module)
    nodemon -> development module, server will automatically restart
    dotenv -> to write constants in env variable and use this throughout the application.
 2. error handling middleware in express
